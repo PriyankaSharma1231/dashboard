@@ -1,0 +1,7 @@
+#Sat Aug 17 01:37:06 IST 2024
+base.1=D\:\\ReactNative\\Examples\\dahsboard-2\\android\\app\\build\\intermediates\\global_synthetics_dex\\release\\classes.dex
+path.1=classes.dex
+base.0=D\:\\ReactNative\\Examples\\dahsboard-2\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

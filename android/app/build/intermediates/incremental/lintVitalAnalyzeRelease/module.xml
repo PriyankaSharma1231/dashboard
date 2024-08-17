@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="D:\ReactNative\Examples\dahsboard-2\android\app"
+    name=":app"
+    type="APP"
+    maven="dashboard:app:"
+    agpVersion="8.2.1"
+    buildFolder="build"
+    bootClassPath="C:\SDK\platforms\android-34\android.jar;C:\SDK\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
